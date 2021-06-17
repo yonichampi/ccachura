@@ -1,0 +1,60 @@
+body{
+    color: rgb(33, 64, 236);
+    background-color: sandybrown;
+}
+.border{
+    background-color:skyblue;
+    color: rgb(8, 8, 8);
+}
+#inputPassword3{
+    border-color: rgb(2, 2, 2);
+}
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contener{
+    padding: 30px;
+}
+#inputEmail3{
+    border-color: rgb(14, 14, 15);
+}
+.amiiboo1{
+    width: 150px;
+    height: 150px;
+}
+.can_border{
+    border: solid 10px white;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+}
+.card-border:hover{
+    transform: scale(1.05);
+}
+#ami{
+    background-color: rgb(7, 6, 5);
+    height: 477px;
+}
+.ite{
+    grid-area: a;
+}
+.ite1{
+    grid-area: a;
+}
+.ite2{
+    grid-area: a;
+}
+.ite3{
+    grid-area: a;
+}
+.accordion-button{
+    background-color: rgb(41, 139, 107);
+}
+.accordion-item{
+    background-color: rgb(3, 243, 211);
+}
+.card {
+    background-image: initial;
+}
